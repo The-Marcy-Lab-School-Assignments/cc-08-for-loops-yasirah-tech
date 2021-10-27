@@ -34,3 +34,5 @@ countFromN(10) //console.logs 10 9 8 7 6 5 4 3 2 1
 ```
 countEveryOdd(10) // console.logs 1 3 5 7 9 
 ```
+
+
